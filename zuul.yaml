@@ -1,5 +1,5 @@
 - project:
-    name: devops-zuul/zuul-test
+    name: devops-zuul/zuul_testing2
     check:
       jobs:
         - noop
